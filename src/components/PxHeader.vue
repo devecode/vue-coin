@@ -7,7 +7,7 @@
           <router-link
             :to="{ name: 'home' }"
             class="font-semibold text-xl tracking-tight"
-            >Platzi Exchange</router-link
+            >JRCode Exchange</router-link
           >
         </div>
         <div
